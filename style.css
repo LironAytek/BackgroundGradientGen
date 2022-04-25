@@ -10,7 +10,7 @@ html, body {
 }
 
 h3 {
-    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-width: 0.35px;
     -webkit-text-stroke-color: white;
 }
 
